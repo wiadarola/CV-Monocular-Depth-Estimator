@@ -15,7 +15,7 @@ This project aims to estimate depth images from 2D RGB images. By training a CNN
 
 ## Model Architecture
 
-The Convolutional Neural Network (CNN) architecture has been designed and optimized for depth estimation tasks. We utilize several convolutional layers, pooling layers, and a regression output layer to predict the depth of each pixel.
+The Convolutional Neural Network (CNN) architecture has been designed and optimized for depth estimation tasks. I utilize several convolutional layers, pooling layers, and a regression output layer to predict the depth of each pixel.
 
 ## Installation
 
