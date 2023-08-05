@@ -38,4 +38,4 @@ python project.py
 
 ## Results
 
-The trained CNN is able to predict pixel depths of RGB images.
+The trained CNN is able to predict pixel depth etimates from RGB images.
