@@ -21,29 +21,19 @@ The Convolutional Neural Network (CNN) architecture has been designed and optimi
 
 1. Clone this repository: 
 ```
-git clone https://github.com/wiadarola/2d-to-depth-estimation.git
+git clone https://github.com/wiadarola/CV-Monocular-Depth-Estimator.git
 ```
 
 2. Navigate to the directory:
 ```
-cd 2d-to-depth-estimation
-```
-
-3. Install the required libraries:
-```
-pip install -r requirements.txt
+cd CV-Monocular-Depth-Estimator
 ```
 
 ## Usage
 
-1. Train the model:
+1. Run the model:
 ```
-python train.py
-```
-
-2. Predict depth image from a 2D image:
-```
-python predict.py --input [path_to_input_image]
+python project.py
 ```
 
 ## Results
