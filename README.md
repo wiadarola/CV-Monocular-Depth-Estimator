@@ -38,4 +38,4 @@ python project.py
 
 ## Results
 
-The trained CNN shows promising results, with our tests demonstrating close approximations to actual depth camera outputs.
+The trained CNN shows promising results, with tests demonstrating close approximations to actual depth camera outputs.
